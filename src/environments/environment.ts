@@ -4,7 +4,7 @@
 
 export const environment = {
   production: true,
-  baseURL: 'http://localhost:3000/api/v1/bootcamp'
+  baseURL: 'https://jeff-jti-bootcamp-be.herokuapp.com/api/v1/bootcamp'
 };
 
 /*
